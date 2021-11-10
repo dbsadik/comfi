@@ -38,11 +38,11 @@ export default function QuickStart({ isServerInfo }) {
             <Text delete style={styles.text}>
               Clone or fork{" "}
               <a
-                href="https://github.com/ethereum-boilerplate/ethereum-boilerplate#-quick-start"
+                href="https://github.com/dbsadik/comfi#-quick-start"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                ethereum-boilerplate
+                comfi
               </a>{" "}
             </Text>
           </Timeline.Item>
@@ -57,7 +57,7 @@ export default function QuickStart({ isServerInfo }) {
             <Text delete={isServerInfo} style={styles.text}>
               Sign up for a free account on{" "}
               <a
-                href="https://moralis.io?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=ethereum-boilerplate"
+                href="https://moralis.io?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=comfi"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -85,7 +85,7 @@ export default function QuickStart({ isServerInfo }) {
               Rename <Text code>.env.example</Text> to <Text code>.env</Text> and provide your{" "}
               <Text strong>appId</Text> and <Text strong>serverUrl</Text> from{" "}
               <a
-                href="https://moralis.io?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=ethereum-boilerplate"
+                href="https://moralis.io?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=comfi"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -111,7 +111,7 @@ export default function QuickStart({ isServerInfo }) {
             <Text delete={isInchDex} style={styles.text}>
               Install{" "}
               <a
-                href="https://moralis.io/plugins/1inch/?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=ethereum-boilerplate"
+                href="https://moralis.io/plugins/1inch/?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=comfi"
                 target="_blank"
                 rel="noopener noreferrer"
               >

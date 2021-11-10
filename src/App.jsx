@@ -158,7 +158,7 @@ const App = ({ isServerInfo }) => {
         <Text style={{ display: "block" }}>
           ⭐️ Please star this{" "}
           <a
-            href="https://github.com/ethereum-boilerplate/ethereum-boilerplate/"
+            href="https://github.com/dbsadik/comfi/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -172,7 +172,7 @@ const App = ({ isServerInfo }) => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://forum.moralis.io/t/ethereum-boilerplate-questions/3951/29"
+            href="https://forum.moralis.io/t/comfi-questions/3951/29"
           >
             Moralis forum
           </a>
